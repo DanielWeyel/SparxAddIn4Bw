@@ -1,16 +1,10 @@
-# 
-
-**Über arc42**
-
-arc42, das Template zur Dokumentation von Software- und
-Systemarchitekturen.
-
-Template Version 8.2 DE. (basiert auf AsciiDoc Version), Januar 2023
-
-Created, maintained and © by Dr. Peter Hruschka, Dr. Gernot Starke and
-contributors. Siehe <https://arc42.org>.
-
 # Einführung und Ziele
+
+Mit dem Architekturdatenmodell Bundeswehr (ADMBw) werden den Modellierern eines Architekturmodells Vorgaben für die syntaktische Umsetzung gegeben. Neben dem ADMBw sind auch anderweitige Vorgaben zu beachten, welche über Leitfäden (https://www.bundeswehr.de/de/organisation/ausruestung-baainbw/vergabe/methode-architektur) ausgedrückt werden.
+
+Den Modellierern soll mit dieser Software Unterstützung bei Routinetätigkeiten im SPARX Enterprise Architect gegeben werden. Es werden dabei folgende Ziele verfolgt:
+* Durch die Unterstützung bei der Modellierung wird die Qualität der Modelle gesteigert.
+* Durch die Automatisierung von Routinetätigkeiten wird Zeit gespart.
 
 ## Aufgabenstellung
 
