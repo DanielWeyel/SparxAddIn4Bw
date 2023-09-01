@@ -1,0 +1,2 @@
+1) DLL unter C:/AKEAddIn/AKEAddIn.EasyHelper.DLL ablegen
+2) Install ausführen

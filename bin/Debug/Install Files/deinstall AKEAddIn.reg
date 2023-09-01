@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+ 
+[-HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}]
+ 
+[-HKEY_CURRENT_USER\Software\Classes\AKEAddIn.EasyHelper]
+ 
+[-HKEY_CURRENT_USER\Software\Sparx Systems\EAAddins\AKEAddIn.EasyHelper]

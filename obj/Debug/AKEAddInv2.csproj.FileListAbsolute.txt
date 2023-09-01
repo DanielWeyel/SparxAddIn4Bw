@@ -1,0 +1,7 @@
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\bin\Debug\AKEAddInv2.dll
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\bin\Debug\AKEAddInv2.pdb
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\bin\Debug\AKEAddInv2.tlb
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\obj\Debug\AKEAddInv2.csprojAssemblyReference.cache
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\obj\Debug\AKEAddInv2.csproj.CoreCompileInputs.cache
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\obj\Debug\AKEAddInv2.dll
+C:\Users\ArchMod\AKE_projects\AKEAddInv2\obj\Debug\AKEAddInv2.pdb

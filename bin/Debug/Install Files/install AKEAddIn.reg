@@ -1,0 +1,34 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}]
+@="AKEAddIn.EasyHelper"
+ 
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}\Implemented Categories]
+ 
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}]
+ 
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="AKEAddIn.EasyHelper"
+"Assembly"="AKEAddIn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/Public/biz.dfch.ea.addins.DLL"
+ 
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}\InprocServer32\1.0.0.0]
+"Class"="AKEAddIn.EasyHelper"
+"Assembly"="AKEAddIn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/AKEAddIn/AKEAddIn.EasyHelper.DLL"
+ 
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{49c24679-9394-4144-b079-7acc6cd852ac}\ProgId]
+@="AKEAddIn.EasyHelper"
+ 
+[HKEY_CURRENT_USER\Software\Classes\AKEAddIn.EasyHelper]
+@="AKEAddIn.EasyHelper"
+ 
+[HKEY_CURRENT_USER\Software\Classes\AKEAddIn.EasyHelper\CLSID]
+@="{49c24679-9394-4144-b079-7acc6cd852ac}"
+ 
+[HKEY_CURRENT_USER\Software\Sparx Systems\EAAddins\AKEAddIn.EasyHelper]
+@="AKEAddIn.EasyHelper"

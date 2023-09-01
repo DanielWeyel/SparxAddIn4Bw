@@ -1,0 +1,6 @@
+C:\Users\Syste\Downloads\AKEAddInv2\Visual Studio 2019 Project Files\AKEAddInv2\bin\Debug\SparxAddIn4Bw.dll
+C:\Users\Syste\Downloads\AKEAddInv2\Visual Studio 2019 Project Files\AKEAddInv2\bin\Debug\SparxAddIn4Bw.pdb
+C:\Users\Syste\Downloads\AKEAddInv2\Visual Studio 2019 Project Files\AKEAddInv2\obj\Debug\SparxAddIn4Bw.csproj.AssemblyReference.cache
+C:\Users\Syste\Downloads\AKEAddInv2\Visual Studio 2019 Project Files\AKEAddInv2\obj\Debug\SparxAddIn4Bw.csproj.CoreCompileInputs.cache
+C:\Users\Syste\Downloads\AKEAddInv2\Visual Studio 2019 Project Files\AKEAddInv2\obj\Debug\SparxAddIn4Bw.dll
+C:\Users\Syste\Downloads\AKEAddInv2\Visual Studio 2019 Project Files\AKEAddInv2\obj\Debug\SparxAddIn4Bw.pdb

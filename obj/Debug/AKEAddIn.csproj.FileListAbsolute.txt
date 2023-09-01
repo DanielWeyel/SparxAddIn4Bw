@@ -1,0 +1,7 @@
+C:\Users\ArchMod\AKE_projects\AKEAddIn\bin\Debug\AKEAddIn.dll
+C:\Users\ArchMod\AKE_projects\AKEAddIn\bin\Debug\AKEAddIn.pdb
+C:\Users\ArchMod\AKE_projects\AKEAddIn\bin\Debug\AKEAddIn.tlb
+C:\Users\ArchMod\AKE_projects\AKEAddIn\obj\Debug\AKEAddIn.csproj.CoreCompileInputs.cache
+C:\Users\ArchMod\AKE_projects\AKEAddIn\obj\Debug\AKEAddIn.dll
+C:\Users\ArchMod\AKE_projects\AKEAddIn\obj\Debug\AKEAddIn.pdb
+C:\Users\ArchMod\AKE_projects\AKEAddIn\obj\Debug\AKEAddIn.csprojAssemblyReference.cache

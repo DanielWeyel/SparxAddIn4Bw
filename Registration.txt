@@ -1,0 +1,19 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319>RegAsm.exe "C:\Users\ArchMod\AKE_projects\AKEAddInv2\bin\Debug\AKEAddInv2.dll" /codebase
+
+For the current user only
+     -  On Enterprise Architect 32 bit
+             [HKEY_CURRENT_USER\Software\Sparx Systems\EAAddins]
+     -  On  Enterprise Architect 64 bit
+             [HKEY_CURRENT_USER\Software\Sparx Systems\EAAddins64]
+For multiple users on a machine
+     -  On Enterprise Architect 32 bit
+             [HKEY_LOCAL_MACHINE\Software\Sparx Systems\EAAddins]
+     -  On Enterprise Architect 64 bit
+             [HKEY_LOCAL_MACHINE\Software\Sparx Systems\EAAddins64]
+
+
+
+Key = AKEAddInv2
+
+REG_SZ Value = AKEAddInv2.EasyHelper
+
